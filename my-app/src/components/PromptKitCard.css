@@ -49,3 +49,33 @@ pre {
   overflow-x: auto;
   border-radius: 8px;
 }
+
+
+/* PromptKitCard.css */
+.prompt-section {
+  position: relative;   /* so our button can float in the corner */
+  margin-top: 16px;
+  padding-top: 1.5rem;  /* give space for the button */
+}
+
+.with-copy .copy-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  color: var(--subtext);
+  transition: color 0.2s;
+}
+
+.with-copy .copy-btn:hover {
+  color: var(--primary);
+}
+
+/* adjust icon size (if using SVG icons) */
+.with-copy .copy-btn svg {
+  width: 1rem;
+  height: 1rem;
+}
