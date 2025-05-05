@@ -1,0 +1,37 @@
+/* index.css */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
+:root {
+  --bg: #121217;
+  --surface: #1e1e23;
+  --card: #1f1f24;
+  --primary: #3a8eff;
+  --text: #e0e0e0;
+  --subtext: #bbbbbb;
+  --border: #333;
+  --shadow: rgba(0, 0, 0, 0.6);
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--subtext);
+}

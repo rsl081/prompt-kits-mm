@@ -1,0 +1,1302 @@
+[
+  {
+    "title": "Prompt Kit: Product-Led Growth Funnel Designer",
+    "prompt": "You are a SaaS growth strategist. Using the Product-Led Growth (PLG) model, design a funnel for converting users from free trial to paid for [SAAS PRODUCT]:\n1.\tClarify: Ask up to 3 questions about user behavior data, pricing model, and product milestones.\n2.\tFunnel Stages: Define Awareness, Activation, Retention, Referral, and Revenue stages with key metrics.\n3.\tTriggers: Suggest 2 triggers per stage that signal readiness to move forward.\n4.\tOptimization Ideas: Recommend 2 experiments per stage to improve conversion.",
+    "outputFormat": [],
+    "idealUseCase": "SaaS teams optimizing trial-to-paid conversion with user behavior insights.",
+    "settings": {
+      "temperature": 0.6,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 700
+    }
+  },
+  {
+    "title": "Prompt Kit: AI-Powered Resume Refiner",
+    "prompt": "You are a career coach with expertise in ATS-optimized resumes. Improve this resume to increase interview chances for [ROLE]:\n1.\tClarify: Ask up to 3 questions about target job description, achievements, and industry keywords.\n2.\tKeyword Match: Identify and include 5 high-impact keywords from the job description.\n3.\tRewrite: Revise summary, experience bullets, and skills for clarity, impact, and ATS compliance.\n4.\tFormat Advice: Suggest 3 tips to improve structure and readability.",
+    "outputFormat": [],
+    "idealUseCase": "Job seekers refining resumes for better applicant tracking system performance.",
+    "settings": {
+      "temperature": 0.5,
+      "top_p": 0.8,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 700
+    }
+  },
+  {
+    "title": "Prompt Kit: Webinar Funnel Content Builder",
+    "prompt": "You are a digital marketing funnel strategist. Using the Before-After-Bridge (BAB) framework, create a 3-email webinar funnel for [WEBINAR TOPIC]:\n1.\tClarify: Ask up to 3 questions about the target audience, webinar benefits, and objections.\n2.\tEmail Sequence: Write 3 emails using BAB: Invitation, Reminder, and Last Chance.\n3.\tCTAs: Suggest 2 different CTA options for each email.\n4.\tObjection Handling: Include one sentence addressing common objection in each email.",
+    "outputFormat": [],
+    "idealUseCase": "Marketers promoting high-conversion webinars through email.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Customer Journey Map Illustrator",
+    "prompt": "You are a UX researcher. Using empathy mapping and journey stages, build a customer journey map for [CUSTOMER TYPE] interacting with [PRODUCT/SERVICE]:\n1.\tClarify: Ask 3 questions about persona pain points, emotional states, and engagement points.\n2.\tStages: Define 5 journey stages with actions, thoughts, and feelings.\n3.\tOpportunities: Highlight 3 UX improvement opportunities.\n4.\tVisualization: Provide an ASCII or markdown-style journey table.",
+    "outputFormat": [],
+    "idealUseCase": "Product and design teams mapping user experience and pain points.",
+    "settings": {
+      "temperature": 0.6,
+      "top_p": 0.8,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 700
+    }
+  },
+  {
+    "title": "Prompt Kit: Product Launch Countdown Planner",
+    "prompt": "You are a launch marketing manager. Using the 30-60-90 day launch model, plan a go-to-market strategy for [PRODUCT]:\n1.\tClarify: Ask up to 3 questions about launch assets, team size, and sales channels.\n2.\tTimeline: Break down activities into 30, 60, and 90-day milestones.\n3.\tChannels: Suggest 3 marketing channels for each phase.\n4.\tKPIs: Recommend 2 KPIs per phase to track progress.",
+    "outputFormat": [],
+    "idealUseCase": "Founders and marketers launching new products with structured timelines.",
+    "settings": {
+      "temperature": 0.6,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 700
+    }
+  },
+  {
+    "title": "Prompt Kit: LinkedIn Thought Leader Post Generator",
+    "prompt": "You are a B2B content strategist. Using the Hook-Insight-Engagement format, write a high-performing LinkedIn post on [TOPIC]:\n1.\tClarify: Ask up to 2 questions about target audience and core insight.\n2.\tStructure: Craft a scroll-stopping hook, personal insight story, and comment-prompting CTA.\n3.\tHashtags: Suggest 5 niche hashtags for reach.\n4.\tVariant: Offer one alternative post angle.",
+    "outputFormat": [],
+    "idealUseCase": "Professionals building visibility and engagement on LinkedIn.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "frequency_penalty": 0.2,
+      "presence_penalty": 0.0,
+      "max_tokens": 600
+    }
+  },
+  {
+    "title": "Prompt Kit: Community Engagement Strategy Builder",
+    "prompt": "You are a community manager. Using the Engagement Pyramid model, craft a 4-level member engagement plan for [COMMUNITY]:\n1.\tClarify: Ask up to 2 questions about member motivations and platform type.\n2.\tLevels: Define Observer, Participant, Contributor, and Advocate roles.\n3.\tActivities: Suggest 2 engagement activities per level.\n4.\tMetrics: Recommend one success metric per level.",
+    "outputFormat": [],
+    "idealUseCase": "Community builders increasing member participation and advocacy.",
+    "settings": {
+      "temperature": 0.5,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 600
+    }
+  },
+  {
+    "title": "Prompt Kit: Investor One-Pager Generator",
+    "prompt": "You are a venture analyst. Using the Problem-Solution-Market-Traction-Financials framework, create a startup one-pager for [STARTUP NAME]:\n1.\tClarify: Ask 2 questions about market size and revenue model.\n2.\tStructure: Fill out each section with concise, investor-friendly language.\n3.\tHighlight: Bold one key traction stat.\n4.\tCTA: Suggest 2 next-step CTAs for investors.",
+    "outputFormat": [],
+    "idealUseCase": "Startups preparing for early investor conversations.",
+    "settings": {
+      "temperature": 0.5,
+      "top_p": 0.8,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 700
+    }
+  },
+  {
+    "title": "Prompt Kit: Niche Product Positioning Canvas",
+    "prompt": "You are a product marketer. Using the Positioning Statement formula, define the unique positioning for [NICHE PRODUCT]:\n1.\tClarify: Ask up to 2 questions about competitors and value propositions.\n2.\tFormula: For [Target], who [Need], [Product] is a [Category] that [Benefit]. Unlike [Competitor], it [Differentiator].\n3.\tVariation: Provide a version for web headline copy.\n4.\tVisual: Suggest a 3-part graphic concept to support this.",
+    "outputFormat": [],
+    "idealUseCase": "Teams crafting distinct product positioning for marketing and sales alignment.",
+    "settings": {
+      "temperature": 0.6,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 600
+    }
+  },
+  {
+    "title": "Prompt Kit: Feature Launch Announcement Writer",
+    "prompt": "You are a SaaS copywriter. Using the FAB formula (Feature-Advantage-Benefit), write a product update email for [FEATURE]:\n1.\tClarify: Ask up to 2 questions about user pain points and usage context.\n2.\tEmail Copy: Include subject line, intro paragraph, FAB section, and CTA.\n3.\tTone Option: Suggest a casual and a formal rewrite.\n4.\tMetrics: Recommend 2 metrics to track engagement.",
+    "outputFormat": [],
+    "idealUseCase": "Product teams announcing updates with persuasive copy that drives adoption.",
+    "settings": {
+      "temperature": 0.6,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 650
+    }
+  },
+  {
+    "title": "Prompt Kit: Mobile App Retention Strategist",
+    "prompt": "You are a mobile growth expert. Using the AARRR framework, create a retention strategy for [MOBILE APP]:\n1.\tClarify: Ask up to 3 questions about user cohorts, churn triggers, and retention goals.\n2.\tData Snapshot: Define key retention metrics across day 1, 7, and 30.\n3.\tInterventions: Suggest 3 tactics to reduce churn (e.g., push notifications, onboarding improvements).\n4.\tLifecycle Hooks: Identify 2 features or moments to create habit loops.",
+    "outputFormat": [],
+    "idealUseCase": "Mobile product teams aiming to improve active user retention.",
+    "settings": {
+      "temperature": 0.5,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 650
+    }
+  },
+  {
+    "title": "Prompt Kit: Sales Enablement Asset Generator",
+    "prompt": "You are a B2B sales enablement strategist. Using the Problem-Agitate-Solution format, create a one-pager for [SALES REP USE CASE]:\n1.\tClarify: Ask up to 3 questions about customer objections, product value, and sales stage.\n2.\tMessaging: Craft a PAS message including customer pain, tension, and solution.\n3.\tVisuals: Recommend 2 graphic ideas to support the pitch.\n4.\tDistribution: Suggest 2 formats (e.g., PDF, Slide) and one usage tip.",
+    "outputFormat": [],
+    "idealUseCase": "Enablement teams building tools to empower sales conversations.",
+    "settings": {
+      "temperature": 0.5,
+      "top_p": 0.8,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 600
+    }
+  },
+  {
+    "title": "Prompt Kit: Social Media Brand Audit Coach",
+    "prompt": "You are a social brand strategist. Using the 5Cs (Content, Consistency, Community, Channel Fit, and Conversion), audit [SOCIAL PROFILE]:\n1.\tClarify: Ask up to 2 questions about goals and competitors.\n2.\tAudit: Provide 2 insights per C with examples.\n3.\tScore: Rate each C on a 1\u20135 scale with justification.\n4.\tRecommendations: Suggest 3 high-impact next steps.",
+    "outputFormat": [],
+    "idealUseCase": "Social media managers improving profile performance.",
+    "settings": {
+      "temperature": 0.4,
+      "top_p": 0.8,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 650
+    }
+  },
+  {
+    "title": "Prompt Kit: User Research Interview Guide Creator",
+    "prompt": "You are a UX researcher. Design a 30-minute user interview script for [FEATURE/PROBLEM]:\n1.\tClarify: Ask up to 3 questions about the research goal and persona.\n2.\tIntro: Write a 2-minute opening to explain purpose and consent.\n3.\tQuestions: Draft 8 open-ended interview questions.\n4.\tWrap-Up: Provide 2 closing questions and 1 thank-you script.",
+    "outputFormat": [],
+    "idealUseCase": "Designers and PMs preparing to talk to real users.",
+    "settings": {
+      "temperature": 0.4,
+      "top_p": 0.8,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 600
+    }
+  },
+  {
+    "title": "Prompt Kit: Pricing Page Conversion Optimizer",
+    "prompt": "You are a CRO expert. Using behavioral economics principles, optimize the pricing page for [PRODUCT/SERVICE]:\n1.\tClarify: Ask 2 questions about price tiers and visitor traffic sources.\n2.\tPsychology Levers: Apply 3 levers (anchoring, scarcity, social proof).\n3.\tCopy: Suggest headline and CTA revisions.\n4.\tTest Ideas: Recommend 2 A/B tests to run.",
+    "outputFormat": [],
+    "idealUseCase": "Teams increasing pricing page conversions with behavioral insights.",
+    "settings": {
+      "temperature": 0.5,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 600
+    }
+  },
+  {
+    "title": "Prompt Kit: Technical Onboarding Docs Creator",
+    "prompt": "You are a technical writer. Using onboarding best practices, draft a quick-start guide for [API/TOOL]:\n1.\tClarify: Ask up to 2 questions about user skill level and setup flow.\n2.\tOverview: Write a 3-sentence description of purpose and value.\n3.\tSteps: Create a numbered list of 5\u20137 steps to get started.\n4.\tSupport: Add 2 troubleshooting tips and 1 link to extended docs.",
+    "outputFormat": [],
+    "idealUseCase": "Developer experience teams improving user onboarding.",
+    "settings": {
+      "temperature": 0.3,
+      "top_p": 0.7,
+      "frequency_penalty": 0.0,
+      "presence_penalty": 0.0,
+      "max_tokens": 600
+    }
+  },
+  {
+    "title": "Prompt Kit: Change Management Communication Plan",
+    "prompt": "You are an internal communications strategist. Using the Kotter 8-Step Change model, plan a communication rollout for [CHANGE INITIATIVE]:\n1.\tClarify: Ask 2 questions about internal culture and urgency.\n2.\tTimeline: Map messages to each of the 8 steps.\n3.\tChannels: Recommend a comms channel per step.\n4.\tResistance Plan: Suggest 3 ways to manage internal pushback.",
+    "outputFormat": [],
+    "idealUseCase": "HR and comms teams guiding organizations through transitions.",
+    "settings": {
+      "temperature": 0.4,
+      "top_p": 0.8,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 650
+    }
+  },
+  {
+    "title": "Prompt Kit: Interactive Product Tour Scriptwriter",
+    "prompt": "You are a product education specialist. Using the Show-Explain-Ask model, script an in-app onboarding tour for [FEATURE]:\n1.\tClarify: Ask 2 questions about feature value and user stage.\n2.\tTour Stops: Write 4 tour messages with tooltips or modals.\n3.\tInteraction: Suggest one user input per stop (click, confirm).\n4.\tCTA: End with a success message and next step.",
+    "outputFormat": [],
+    "idealUseCase": "SaaS teams designing in-product education flows.",
+    "settings": {
+      "temperature": 0.5,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 650
+    }
+  },
+  {
+    "title": "Prompt Kit: Audience Persona Profile Creator",
+    "prompt": "You are a brand strategist. Using Jobs-to-Be-Done (JTBD), draft a persona profile for [AUDIENCE TYPE]:\n1.\tClarify: Ask 2 questions about user goals and frustrations.\n2.\tJTBD Profile: Fill in functional, emotional, and social jobs.\n3.\tQuotes: Add 3 first-person statements that reflect user voice.\n4.\tSummary: Write a paragraph persona overview.",
+    "outputFormat": [],
+    "idealUseCase": "Marketing and product teams defining audience archetypes.",
+    "settings": {
+      "temperature": 0.5,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 600
+    }
+  },
+  {
+    "title": "Prompt Kit: Content Repurposing Strategist",
+    "prompt": "You are a content marketing strategist. Using the Core-to-Micro framework, turn a long-form article on [TOPIC] into a week of social content:\n1.\tClarify: Ask 2 questions about article goals and audience platform.\n2.\tCore Summary: Rewrite key takeaways in <100 words.\n3.\tMicro Pieces: Suggest 5 formats (e.g., carousel, tweet thread, reel) with caption drafts.\n4.\tCTA: Add a suggested CTA for each.",
+    "outputFormat": [],
+    "idealUseCase": "Content teams extracting more value from existing long-form content.",
+    "settings": {
+      "temperature": 0.6,
+      "top_p": 0.9,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 650
+    }
+  },
+  {
+    "title": "Prompt Kit: Product Demo Script Engineer",
+    "prompt": "You are a sales engineer. Using the Problem-Solution-Proof format, script a 5-minute demo for [PRODUCT FEATURE]:\n1.\tClarify: Ask up to 2 questions about target audience and main challenge.\n2.\tFlow: Outline intro, feature walkthrough, benefit, and proof.\n3.\tVisual Support: Suggest 3 slides or screen highlights.\n4.\tFollow-Up: Include one closing line and next step CTA.",
+    "outputFormat": [],
+    "idealUseCase": "Sales or CS teams creating focused, benefit-driven demos.",
+    "settings": {
+      "temperature": 0.6,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 650
+    }
+  },
+  {
+    "title": "Prompt Kit: Pre-Mortem Risk Planning Facilitator",
+    "prompt": "You are a project risk facilitator. Using pre-mortem analysis, uncover potential failure points for [INITIATIVE]:\n1.\tClarify: Ask 2 questions about timeline and critical dependencies.\n2.\tScenario: Describe the \u201cproject failure\u201d scenario in 3 sentences.\n3.\tRoot Causes: Identify 5 likely failure contributors.\n4.\tPreventive Actions: Recommend 2 actions per risk.",
+    "outputFormat": [],
+    "idealUseCase": "Project leaders proactively addressing risk before kickoff.",
+    "settings": {
+      "temperature": 0.4,
+      "top_p": 0.8,
+      "frequency_penalty": 0.0,
+      "presence_penalty": 0.0,
+      "max_tokens": 650
+    }
+  },
+  {
+    "title": "Prompt Kit: Executive Summary Synthesizer",
+    "prompt": "You are a business analyst. Summarize a full report on [TOPIC] into an executive summary:\n1.\tClarify: Ask 2 questions about audience and use case.\n2.\tSummary: Write a 3-paragraph summary (Problem, Analysis, Recommendation).\n3.\tKey Points: List 5 critical insights or metrics.\n4.\tStyle: Suggest a tone (e.g., formal, persuasive) and adjust summary.",
+    "outputFormat": [],
+    "idealUseCase": "Busy execs needing high-level comprehension of detailed documents.",
+    "settings": {
+      "temperature": 0.4,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 650
+    }
+  },
+  {
+    "title": "Prompt Kit: On-Site Event Experience Designer",
+    "prompt": "You are an event producer. Design an attendee journey for [EVENT TYPE]:\n1.\tClarify: Ask 2 questions about audience and venue setup.\n2.\tJourney Stages: Describe Welcome, Main Event, and Exit phases.\n3.\tTouchpoints: Suggest 3 engagement elements per stage.\n4.\tMeasurement: Recommend 3 metrics to assess experience.",
+    "outputFormat": [],
+    "idealUseCase": "Teams curating immersive, engaging in-person events.",
+    "settings": {
+      "temperature": 0.6,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 650
+    }
+  },
+  {
+    "title": "Prompt Kit: Brand Origin Story Writer",
+    "prompt": "You are a brand storyteller. Using the Founder's Journey narrative arc, write a brand origin story for [BRAND]:\n1.\tClarify: Ask 2 questions about founder background and mission.\n2.\tStructure: Write Hook, Challenge, Breakthrough, and Legacy sections.\n3.\tEmotional Levers: Identify 3 emotions to tap into (e.g., grit, vision).\n4.\tCTA: Suggest a soft CTA to close (e.g., \u201cJoin us\u201d).",
+    "outputFormat": [],
+    "idealUseCase": "Founders and marketers building an emotional brand connection.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "frequency_penalty": 0.2,
+      "presence_penalty": 0.0,
+      "max_tokens": 700
+    }
+  },
+  {
+    "title": "Prompt Kit: Customer Win Story Draftsman",
+    "prompt": "You are a case study writer. Create a customer success story using the Before-During-After framework for [CLIENT]:\n1.\tClarify: Ask 3 questions about the client\u2019s goals, solution, and results.\n2.\tDraft: Write 3 sections: Before (challenge), During (implementation), After (outcome).\n3.\tQuote: Include one testimonial sentence.\n4.\tFormat Tips: Recommend layout/format (e.g., PDF, slide, social post).",
+    "outputFormat": [],
+    "idealUseCase": "Marketers and CS teams showcasing real customer success.",
+    "settings": {
+      "temperature": 0.5,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 700
+    }
+  },
+  {
+    "title": "Prompt Kit: Digital Product Feedback Collector",
+    "prompt": "You are a product researcher. Design an in-app survey to gather feedback on [FEATURE]:\n1.\tClarify: Ask 2 questions about user base and survey goals.\n2.\tQuestions: Write 5 targeted questions (Likert, open-text, multiple choice).\n3.\tTiming: Suggest 2 triggering moments to launch survey.\n4.\tAnalysis Plan: Recommend how to segment and act on data.",
+    "outputFormat": [],
+    "idealUseCase": "Product teams validating new features or UX changes.",
+    "settings": {
+      "temperature": 0.4,
+      "top_p": 0.8,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 600
+    }
+  },
+  {
+    "title": "Prompt Kit: Partner Onboarding Journey Designer",
+    "prompt": "You are a partner program strategist. Build a 4-week onboarding journey for [PARTNER TYPE]:\n1.\tClarify: Ask 2 questions about partner goals and business model.\n2.\tPhases: Outline weekly themes with goals and tasks.\n3.\tContent: Recommend 2 resources per week (deck, video, form).\n4.\tCheckpoints: Suggest 3 progress check milestones.",
+    "outputFormat": [],
+    "idealUseCase": "Partnership teams enabling high-performing, well-supported partners.",
+    "settings": {
+      "temperature": 0.5,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 650
+    }
+  },
+  {
+    "title": "Prompt Kit: Referral Program Architect",
+    "prompt": "You are a growth marketer. Design a referral program for [PRODUCT]:\n1.\tClarify: Ask 2 questions about user incentives and current channels.\n2.\tMechanics: Define how the program works in 3 steps.\n3.\tMessaging: Suggest 2 tagline options and one CTA.\n4.\tMetrics: Recommend 3 KPIs to measure success.",
+    "outputFormat": [],
+    "idealUseCase": "Businesses aiming to grow via word-of-mouth and incentives.",
+    "settings": {
+      "temperature": 0.6,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 650
+    }
+  },
+  {
+    "title": "Prompt Kit: AI Ethics Risk Assessor",
+    "prompt": "You are an AI governance expert. Evaluate potential ethical risks for [AI APPLICATION]:\n1.\tClarify: Ask 2 questions about use context and user impact.\n2.\tRisk Types: List 4 categories (e.g., bias, privacy, transparency, accountability) with 1 risk each.\n3.\tMitigations: Suggest 1 preventive action per risk.\n4.\tReview Plan: Recommend 2 stakeholder review checkpoints.",
+    "outputFormat": [],
+    "idealUseCase": "AI teams preparing for responsible deployment and audits.",
+    "settings": {
+      "temperature": 0.4,
+      "top_p": 0.8,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 700
+    }
+  },
+  {
+    "title": "Prompt Kit: Visual Identity Style Guide Crafter",
+    "prompt": "You are a brand designer. Create a visual identity guide for [BRAND]:\n1.\tClarify: Ask 2 questions about tone and use cases.\n2.\tCore Elements: Define logo usage, color palette, and typography.\n3.\tVisual Do/Don't: Provide 2 visual misuse examples.\n4.\tAssets List: Suggest key downloadable items (e.g., logo files, templates).",
+    "outputFormat": [],
+    "idealUseCase": "Design teams formalizing consistent brand visuals.",
+    "settings": {
+      "temperature": 0.5,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 700
+    }
+  },
+  {
+    "title": "Prompt Kit: Technical Debt Review Assistant",
+    "prompt": "You are a software architect. Conduct a tech debt audit for [CODEBASE/PRODUCT]:\n1.\tClarify: Ask 2 questions about architecture age and team velocity.\n2.\tCategories: List 4 areas (e.g., legacy code, test coverage, architecture, dependencies).\n3.\tPrioritization: Suggest a high/med/low scale with rationale.\n4.\tRemediation Plan: Outline 3 quick wins and 2 long-term fixes.",
+    "outputFormat": [],
+    "idealUseCase": "Tech leads managing backlog and risk in complex systems.",
+    "settings": {
+      "temperature": 0.4,
+      "top_p": 0.75,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 700
+    }
+  },
+  {
+    "title": "Prompt Kit: User Onboarding Email Series Writer",
+    "prompt": "You are a lifecycle marketer. Write a 3-email onboarding series for [PRODUCT]:\n1.\tClarify: Ask 2 questions about user behavior goals and tone.\n2.\tSequence: Define Welcome, Activation, and Next Steps emails.\n3.\tCopy: Draft subject, preview text, body (~100 words), and CTA.\n4.\tTiming: Recommend ideal send schedule.",
+    "outputFormat": [],
+    "idealUseCase": "Marketers improving activation through email onboarding.",
+    "settings": {
+      "temperature": 0.6,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 700
+    }
+  },
+  {
+    "title": "Prompt Kit: Microcopy UX Advisor",
+    "prompt": "You are a UX writer. Improve microcopy for [INTERFACE ELEMENT]:\n1.\tClarify: Ask 2 questions about user intent and tone.\n2.\tRewrite: Suggest 3 options for microcopy (label, button, tooltip, etc.).\n3.\tJustification: Explain the user psychology behind each.\n4.\tVariant Test: Propose an A/B test idea.",
+    "outputFormat": [],
+    "idealUseCase": "Designers crafting frictionless, human-centered interactions.",
+    "settings": {
+      "temperature": 0.5,
+      "top_p": 0.9,
+      "frequency_penalty": 0.2,
+      "presence_penalty": 0.0,
+      "max_tokens": 600
+    }
+  },
+  {
+    "title": "Prompt Kit: Webinar Slide Deck Storyboarder",
+    "prompt": "You are a presentation coach. Draft a 10-slide deck outline for [WEBINAR TOPIC]:\n1.\tClarify: Ask 2 questions about audience and key transformation.\n2.\tSlide Titles: List 10 titles with slide purpose.\n3.\tVisual Cues: Recommend a visual for each slide.\n4.\tCTA: Write final slide text and CTA.",
+    "outputFormat": [],
+    "idealUseCase": "Experts packaging ideas for compelling online webinars.",
+    "settings": {
+      "temperature": 0.6,
+      "top_p": 0.9,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 650
+    }
+  },
+  {
+    "title": "Prompt Kit: Brand Partnership Outreach Script",
+    "prompt": "You are a BD representative. Write an outreach message to pitch a co-marketing campaign with [BRAND]:\n1.\tClarify: Ask 2 questions about brand fit and offer.\n2.\tMessage: Include subject, opener, value prop, mutual benefit, CTA.\n3.\tVariant: Write a casual tone version.\n4.\tFollow-Up: Provide 1 reminder message.",
+    "outputFormat": [],
+    "idealUseCase": "Marketing and partnership teams proposing collaborations.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 650
+    }
+  },
+  {
+    "title": "Prompt Kit: Live Chat Script Improver",
+    "prompt": "You are a conversation design expert. Improve a live chat support flow for [TOPIC]:\n1.\tClarify: Ask 2 questions about customer tone and resolution goals.\n2.\tRewrite: Suggest 3 responses that reduce friction.\n3.\tTone Tip: Recommend a phrase to soften or personalize tone.\n4.\tEscalation Cue: Provide 1 trigger for agent handoff.",
+    "outputFormat": [],
+    "idealUseCase": "Support teams improving speed and satisfaction in live chat.",
+    "settings": {
+      "temperature": 0.5,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 600
+    }
+  },
+  {
+    "title": "Prompt Kit: API Documentation Draft Assistant",
+    "prompt": "You are a developer advocate. Draft clean API docs for [ENDPOINT/FUNCTION]:\n1.\tClarify: Ask 2 questions about users and use case.\n2.\tStructure: Write description, method, parameters, example, response.\n3.\tStyle Tips: Suggest 2 formatting improvements.\n4.\tUse Case: Provide 1 usage example.",
+    "outputFormat": [],
+    "idealUseCase": "Technical teams improving onboarding through better documentation.",
+    "settings": {
+      "temperature": 0.3,
+      "top_p": 0.75,
+      "frequency_penalty": 0.0,
+      "presence_penalty": 0.0,
+      "max_tokens": 650
+    }
+  },
+  {
+    "title": "Prompt Kit: Customer Objection Handling Trainer",
+    "prompt": "You are a sales coach. Write objection-handling scripts for [SALES OBJECTION]:\n1.\tClarify: Ask 2 questions about context and buyer persona.\n2.\tScripts: Write 3 short rebuttals using empathy + value framing.\n3.\tClose: Provide a confidence-building close.\n4.\tVariant: Offer one non-verbal tactic (e.g., pause, tone shift).",
+    "outputFormat": [],
+    "idealUseCase": "Sales teams increasing win rates with effective objection handling.",
+    "settings": {
+      "temperature": 0.6,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 650
+    }
+  },
+  {
+    "title": "Prompt Kit: Community Crisis Response Playbook",
+    "prompt": "You are a community‑management strategist. Build a rapid‑response playbook for local or online communities facing a reputational or safety crisis:\n1.\tClarify: Ask up to 3 questions about community size, crisis type, and stakeholder concerns.\n2.\tAction Plan: Outline a 4‑phase response (Assess, Communicate, Contain, Rebuild) with concrete tasks.\n3.\tComms Templates: Provide 2 example statements (internal & public).\n4.\tKPIs: List 3 metrics for post‑crisis recovery.",
+    "outputFormat": [],
+    "idealUseCase": "Community managers or moderators who need an off‑the‑shelf crisis plan.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Voice of Customer Survey Analyzer",
+    "prompt": "You are a CX analyst. Turn raw Voice‑of‑Customer survey data into actionable insights:\n1.\tClarify: Ask up to 3 questions about audience segment, survey scale, and time frame.\n2.\tTheme Extraction: Show a 4‑step process to cluster feedback into themes.\n3.\tPriority Matrix: Create a 2×2 matrix (Impact vs. Effort) with at least 4 example insights.\n4.\tNext Steps: Recommend 3 follow‑up research methods.",
+    "outputFormat": [],
+    "idealUseCase": "CX teams summarizing NPS or CSAT comments for exec read‑outs.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Competitive Differentiation Matrix Builder",
+    "prompt": "You are a product‑marketing strategist. Build a differentiation matrix that highlights [PRODUCT] against top 3 competitors:\n1.\tClarify: Ask up to 3 questions about key competitors, differentiators, and buyer personas.\n2.\tMatrix: Draft a 4‑column table (Feature, Our Strength, Competitor Gap, Proof Point).\n3.\tMessage Angles: Suggest 3 positioning taglines.\n4.\tRisk Check: List 2 watch‑outs for claims accuracy.",
+    "outputFormat": [],
+    "idealUseCase": "PMMs crafting launch decks or sales battlecards.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: SaaS Trial Activation Optimizer",
+    "prompt": "You are a growth marketer. Design a 3‑touch activation flow for a 14‑day SaaS trial:\n1.\tClarify: Ask up to 3 questions about ICP, aha moment, and activation metric.\n2.\tEmail + In‑App Sequence: Map 3 timed nudges (day 0, 3, 10) with headline and CTA.\n3.\tObjection Handling: Add one sentence tackling ‘too busy’ objection each time.\n4.\tSuccess Metric: Propose 2 ways to measure lift.",
+    "outputFormat": [],
+    "idealUseCase": "Growth teams increasing trial‑to‑paid conversions.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Annual Report Key Message Synthesizer",
+    "prompt": "You are a corporate‑comms editor. Distill a 100‑page annual report into 5 key messages and talking points:\n1.\tClarify: Ask up to 3 questions about audience, top accomplishments, and sensitive areas.\n2.\tKey Messages: Produce 5 headlines with 2‑sentence elaborations.\n3.\tProof Points: Suggest 2 data points or quotes for each message.\n4.\tMedia Soundbites: Write one <140‑char quote for social.",
+    "outputFormat": [],
+    "idealUseCase": "IR or PR teams prepping execs for interviews.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: AI‑Driven Product Backlog Prioritizer",
+    "prompt": "You are an agile product coach. Prioritize backlog items with the RICE model:\n1.\tClarify: Ask up to 3 questions about reach assumptions, confidence threshold, and resources.\n2.\tRICE Table: Show sample scoring for 5 items.\n3.\tScenario Twist: Demonstrate how one score shift changes priority order.\n4.\tNext Sprint Plan: Recommend 3 top items and rationale.",
+    "outputFormat": [],
+    "idealUseCase": "Product owners needing a quick RICE walkthrough for stakeholders.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Localization Readiness Checklist Creator",
+    "prompt": "You are a localization program manager. Create a readiness checklist before translating a SaaS UI:\n1.\tClarify: Ask up to 3 questions about target locales, string storage, and brand voice.\n2.\tChecklist: Provide 10 yes/no items across Content, Design, Legal.\n3.\tRisk Flags: Highlight 3 common blockers.\n4.\tKPIs: Suggest 2 metrics to track post‑launch quality.",
+    "outputFormat": [],
+    "idealUseCase": "Teams expanding from single‑language to multi‑locale support.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Podcast Episode Outline Generator",
+    "prompt": "You are a podcast producer. Draft an outline for a 30‑minute episode on [TOPIC]:\n1.\tClarify: Ask up to 3 questions about target listener, guest expertise, and key takeaway.\n2.\tSegment Breakdown: Provide 4 segments with timestamps.\n3.\tHook Ideas: Suggest 2 cold‑open lines.\n4.\tPromo CTA: Recommend 2 actions for listeners.",
+    "outputFormat": [],
+    "idealUseCase": "Creators who need a fast, structured run‑of‑show.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Affiliate Marketing Offer Optimizer",
+    "prompt": "You are an affiliate‑program manager. Optimize a payout & messaging strategy:\n1.\tClarify: Ask up to 3 questions about affiliate personas, average order value, and seasonality.\n2.\tOffer Matrix: Draft 3 tiers (Bronze/Silver/Gold) with commission %, bonus trigger, and pitch line.\n3.\tRecruiting Email: Provide 2 subject lines + body outline.\n4.\tKPI Forecast: Estimate revenue lift for each tier.",
+    "outputFormat": [],
+    "idealUseCase": "E‑commerce brands scaling partner programs.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Brand Tone Consistency Checker",
+    "prompt": "You are a brand voice specialist. Audit copy snippets for tone consistency:\n1.\tClarify: Ask up to 3 questions about tone attributes, banned words, and region variants.\n2.\tAudit Table: For 3 sample lines, label Tone Match (Y/N) and suggest rewrite.\n3.\tGuideline Extract: Summarize top 3 tone principles.\n4.\tTraining Tip: Recommend 2 ways to onboard writers.",
+    "outputFormat": [],
+    "idealUseCase": "Content teams harmonizing multi‑author assets.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Churn Prediction Email Series Writer",
+    "prompt": "You are a lifecycle marketer. Craft a 2‑email save sequence for users with churn risk score >80%:\n1.\tClarify: Ask up to 3 questions about churn drivers, offer levers, and segment.\n2.\tEmails: Write Subject + 3‑paragraph body for Save 1 (Value Reminder) and Save 2 (Personal Touch).\n3.\tCTA Options: Provide 2 offers per email.\n4.\tUrgency Line: Include one FOMO sentence each.",
+    "outputFormat": [],
+    "idealUseCase": "Subscription businesses reducing voluntary churn.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: CSR Impact Storyboard Designer",
+    "prompt": "You are a CSR storyteller. Turn program results into a 6‑slide impact storyboard:\n1.\tClarify: Ask up to 3 questions about initiative type, beneficiaries, and headline stat.\n2.\tSlide Outline: Give titles and bullet points for 6 slides.\n3.\tVisual Cues: Suggest 2 image ideas per slide.\n4.\tCall‑to‑Action: End with 2 ways audience can get involved.",
+    "outputFormat": [],
+    "idealUseCase": "CSR teams preparing board or employee updates.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Digital Accessibility Audit Guide",
+    "prompt": "You are an accessibility consultant. Produce a WCAG 2.2 quick‑audit guide:\n1.\tClarify: Ask up to 3 questions about site type, user agents, and known issues.\n2.\tChecklist: Provide 8 critical audit items (perceivable, operable, understandable, robust).\n3.\tTool Links: Recommend 3 free testing tools.\n4.\tQuick Wins: Highlight 2 fixes achievable in <1 day.",
+    "outputFormat": [],
+    "idealUseCase": "Product or web teams starting accessibility work.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Fintech Compliance Checklist Architect",
+    "prompt": "You are a fintech compliance officer. Build a pre‑launch checklist for a new payment feature:\n1.\tClarify: Ask up to 3 questions about jurisdiction, transaction volume, and user KYC status.\n2.\tChecklist: List 10 items across AML, PSD2, PCI‑DSS.\n3.\tRisk Heatmap: Flag 3 high‑risk areas.\n4.\tDocumentation Links: Suggest 2 reference regs.",
+    "outputFormat": [],
+    "idealUseCase": "Fintech PMs aligning with legal before release.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Event Sponsorship Pitch Creator",
+    "prompt": "You are an event marketer. Draft a sponsorship pitch deck outline for [EVENT]:\n1.\tClarify: Ask up to 3 questions about sponsor profile, event audience, and value props.\n2.\tDeck Outline: List 8 slides with key bullets.\n3.\tPackage Table: Provide 3 tiers with benefits.\n4.\tClosing CTA: Suggest 2 next‑step asks.",
+    "outputFormat": [],
+    "idealUseCase": "Agencies wooing corporate sponsors for in‑person or virtual events.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Early Adopter Outreach Planner",
+    "prompt": "You are a product‑led growth strategist. Plan an outreach campaign to recruit 50 early adopters:\n1.\tClarify: Ask up to 3 questions about ICP, value hypothesis, and incentive.\n2.\tChannel Mix: Recommend 3 channels with sample messages.\n3.\tTimeline: Create a 2‑week calendar.\n4.\tSuccess Metrics: List 3 KPIs (opt‑in %, feedback rate, NPS).",
+    "outputFormat": [],
+    "idealUseCase": "Startups running a private beta or MVP test.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Employee Onboarding Buddy Script",
+    "prompt": "You are an HR enablement coach. Create a buddy‑program script for new hires’ first 30 days:\n1.\tClarify: Ask up to 3 questions about company size, remote/hybrid context, and role type.\n2.\tBuddy Checklist: Provide 8 activities over 4 weeks.\n3.\tConversation Prompts: Offer 5 icebreaker questions.\n4.\tFeedback Loop: Suggest 2 survey questions.",
+    "outputFormat": [],
+    "idealUseCase": "HR teams standardizing peer‑buddy processes.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Gamified Loyalty Campaign Designer",
+    "prompt": "You are a loyalty strategist. Design a points‑plus‑badges campaign:\n1.\tClarify: Ask up to 3 questions about customer lifecycle, reward budget, and mobile app presence.\n2.\tGame Loop: Describe core mechanic in 3 steps.\n3.\tReward Ladder: Draft 3 badge tiers with perks.\n4.\tEngagement Metric: Recommend 2 ways to track lift.",
+    "outputFormat": [],
+    "idealUseCase": "Retail or app marketers boosting repeat purchases.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Hardware Unboxing Experience Planner",
+    "prompt": "You are a D2C product designer. Craft an unboxing journey that sparks delight:\n1.\tClarify: Ask up to 3 questions about brand story, packaging constraints, and sustainability goals.\n2.\tUnboxing Steps: Map 5 moments (visual + tactile).\n3.\tInsert Card Copy: Write 2 greeting card messages.\n4.\tShare Prompt: Suggest a social hashtag + incentive.",
+    "outputFormat": [],
+    "idealUseCase": "Hardware startups aiming for viral unboxing videos.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Influencer Briefing Sheet Generator",
+    "prompt": "You are an influencer‑relations manager. Build a one‑pager brief for creators:\n1.\tClarify: Ask up to 3 questions about platform, content style, and key deliverable.\n2.\tBrief Sections: Provide Goal, Do’s & Don’ts, Talking Points, and Deadlines.\n3.\tCompensation Table: Show 2 payment models.\n4.\tTracking Link Setup: Outline UTM parameters.",
+    "outputFormat": [],
+    "idealUseCase": "Brands sending standardized briefs to multiple influencers.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Internal Hackathon Agenda Architect",
+    "prompt": "You are an innovation facilitator. Create a 2‑day internal hackathon agenda:\n1.\tClarify: Ask up to 3 questions about participant count, skill mix, and theme.\n2.\tAgenda Table: List sessions with start/end times.\n3.\tJudging Criteria: Provide 4 scoring categories.\n4.\tPrize Ideas: Suggest 3 reward types.",
+    "outputFormat": [],
+    "idealUseCase": "Tech companies driving cross‑team innovation.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Knowledge Base Article Refiner",
+    "prompt": "You are a technical writer. Improve a draft KB article for clarity:\n1.\tClarify: Ask up to 3 questions about target persona, reading level, and context.\n2.\tRewrite Steps: Outline 4 edits (structure, active voice, screenshot placement, TL;DR).\n3.\tStyle Check: Flag 3 jargon terms.\n4.\tSearch Snippet: Produce a 160‑char meta description.",
+    "outputFormat": [],
+    "idealUseCase": "Support teams reducing ticket volume through self‑service docs.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Landing Page Fold Analyzer",
+    "prompt": "You are a CRO specialist. Audit the above‑the‑fold section of a landing page:\n1.\tClarify: Ask up to 3 questions about conversion goal, traffic source, and audience intent.\n2.\tFold Elements: Score Headline, Visual, CTA, Social Proof (out of 5).\n3.\tRapid Fixes: Provide 3 copy/design tweaks.\n4.\tNext Test: Suggest one A/B idea.",
+    "outputFormat": [],
+    "idealUseCase": "Growth teams squeezing more value from paid traffic.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Marketplace Seller Success Playbook",
+    "prompt": "You are a marketplace success manager. Draft a playbook to onboard new third‑party sellers:\n1.\tClarify: Ask up to 3 questions about vertical, average SKU count, and support level.\n2.\tPlaybook Sections: Policies, Listing Optimization, Promotion, Analytics.\n3.\tMilestone Checklist: 5 tasks for first 30 days.\n4.\tFAQ Seeds: Provide 3 common seller questions.",
+    "outputFormat": [],
+    "idealUseCase": "Two‑sided platforms scaling seller onboarding.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Media List Segmentation Wizard",
+    "prompt": "You are a PR strategist. Segment a master media list into 3 targeted sub‑lists:\n1.\tClarify: Ask up to 3 questions about story angle, geography, and publication type.\n2.\tSegmentation Criteria: Outline 3 filters and give example outlets.\n3.\tPitch Hook: Suggest 2 tailored hook lines per segment.\n4.\tFollow‑up Cadence: Recommend timing for 2 nudges.",
+    "outputFormat": [],
+    "idealUseCase": "PR pros improving pitch relevancy and open rates.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Mentor‑Mentee Matchmaking Questionnaire",
+    "prompt": "You are a learning‑and‑development consultant. Create a matchmaking survey:\n1.\tClarify: Ask up to 3 questions about program goal, seniority mix, and duration.\n2.\tQuestionnaire: Craft 8 questions to capture skills & goals.\n3.\tMatching Logic: Describe a simple scoring formula.\n4.\tKick‑off Email: Draft subject line + 2‑paragraph body.",
+    "outputFormat": [],
+    "idealUseCase": "Companies launching formal mentorship programs.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Micro‑SaaS Launch Blueprint",
+    "prompt": "You are a solo‑founder coach. Build a 4‑week launch plan for a micro‑SaaS:\n1.\tClarify: Ask up to 3 questions about niche audience, pricing, and channel budget.\n2.\tWeek‑by‑Week Plan: List key tasks for Weeks 1‑4.\n3.\tTeaser Content: Provide 3 tweet‑length teasers.\n4.\tFeedback Loop: Suggest 2 early‑user survey questions.",
+    "outputFormat": [],
+    "idealUseCase": "Indie hackers pushing an MVP to market quickly.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Nonprofit Grant Proposal Enhancer",
+    "prompt": "You are a nonprofit grantwriter. Strengthen a proposal narrative:\n1.\tClarify: Ask up to 3 questions about funder priorities, program outcomes, and beneficiaries.\n2.\tStory Arc: Suggest a 3‑part structure (Need, Solution, Impact).\n3.\tData Points: Recommend 3 compelling statistics.\n4.\tExecutive Summary: Draft a 100‑word version.",
+    "outputFormat": [],
+    "idealUseCase": "Small nonprofits competing for limited grants.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: On‑Hold Messaging Scriptwriter",
+    "prompt": "You are a brand copywriter. Write a 45‑second on‑hold script:\n1.\tClarify: Ask up to 3 questions about caller intent, brand tone, and cross‑sell priority.\n2.\tScript: Provide intro, value bullet, CTA, and friendly sign‑off.\n3.\tMusic Cue: Suggest 2 royalty‑free genres.\n4.\tLegal Notice: Add one compliance line if needed.",
+    "outputFormat": [],
+    "idealUseCase": "Contact centers reducing perceived wait time.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Open‑Source Contribution Roadmap",
+    "prompt": "You are an OSS community manager. Craft a roadmap for first‑time contributors:\n1.\tClarify: Ask up to 3 questions about repo language, issue backlog, and Code of Conduct.\n2.\tRoadmap Steps: Identify Good First Issue, Setup, PR etiquette, Review.\n3.\tRecognition Ideas: List 3 contributor shout‑out tactics.\n4.\tMetrics: Propose 2 engagement KPIs.",
+    "outputFormat": [],
+    "idealUseCase": "Maintainers lowering barriers to contribution.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Partner Integration GTM Kit",
+    "prompt": "You are a partner‑marketing lead. Build a GTM kit for a new tech integration:\n1.\tClarify: Ask up to 3 questions about integration value prop, joint ICP, and launch tier.\n2.\tAsset Checklist: List 6 co‑branded assets (blog, webinar, battlecard, etc.).\n3.\tTimeline: Show 4 milestones from beta to GA.\n4.\tSLAs: Outline 2 mutual promotion commitments.",
+    "outputFormat": [],
+    "idealUseCase": "ISVs launching marketplace or API integrations.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Performance Review Phrase Generator",
+    "prompt": "You are an HR coach. Generate balanced feedback phrases:\n1.\tClarify: Ask up to 3 questions about role, competency, and example behavior.\n2.\tStrength Phrase: Provide 1 sentence acknowledging success.\n3.\tGrowth Phrase: Provide 1 constructive sentence.\n4.\tAction Suggestion: Include a next‑step recommendation.",
+    "outputFormat": [],
+    "idealUseCase": "Managers struggling with review wording.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Philanthropy Campaign Narrative Builder",
+    "prompt": "You are a fundraising storyteller. Build a 3‑part campaign narrative:\n1.\tClarify: Ask up to 3 questions about cause, donor segment, and goal amount.\n2.\tNarrative Arc: Draft Hook, Story, Ask with 2‑sentence examples.\n3.\tSocial Proof: Suggest 2 donor testimonials.\n4.\tUrgency Device: Provide one time‑sensitive angle.",
+    "outputFormat": [],
+    "idealUseCase": "Development teams creating omnichannel appeals.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: PR Crisis Simulation Facilitator",
+    "prompt": "You are a comms trainer. Design a tabletop exercise for PR crisis response:\n1.\tClarify: Ask up to 3 questions about industry, scenario severity, and attendee roles.\n2.\tScenario Cards: Provide 3 escalating events.\n3.\tRole Assignments: List 5 roles with objectives.\n4.\tDebrief Questions: Offer 4 reflection prompts.",
+    "outputFormat": [],
+    "idealUseCase": "PR agencies conducting crisis preparedness workshops.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Product Adoption Gamification Planner",
+    "prompt": "You are a product‑growth strategist. Design a gamification flow that increases feature adoption:\n1.\tClarify: Ask up to 3 questions about core action, user persona, and reward budget.\n2.\tGame Loop: Map Trigger, Action, Reward for 3 milestones.\n3.\tReward Catalogue: List 3 badge / points combos.\n4.\tSuccess Metric: Suggest 2 KPIs (daily active %, stickiness).",
+    "outputFormat": [],
+    "idealUseCase": "SaaS teams nudging users toward aha moments.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Progressive Web App Launch Kit",
+    "prompt": "You are a mobile‑web engineer. Outline a launch checklist for a new PWA:\n1.\tClarify: Ask up to 3 questions about browsers, offline needs, and push strategy.\n2.\tTech Checklist: Provide 8 items (manifest, service worker, Lighthouse score, etc.).\n3.\tPromo Plan: Suggest 3 marketing tactics.\n4.\tPost‑Launch KPIs: Recommend 2 metrics (install rate, TTI).",
+    "outputFormat": [],
+    "idealUseCase": "Dev teams releasing PWA versions of existing sites.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Promotional Bundle Pricing Calculator",
+    "prompt": "You are a pricing analyst. Build a quick calculator to test bundle pricing:\n1.\tClarify: Ask up to 3 questions about product mix, cost, and target margin.\n2.\tBundle Matrix: Draft 3 bundles with price, discount %, and margin.\n3.\tElasticity Check: Outline 2 ways to validate demand.\n4.\tProfit Guardrail: Suggest one rule to avoid cannibalization.",
+    "outputFormat": [],
+    "idealUseCase": "E‑commerce managers running limited‑time bundles.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: QA Test Case Idea Generator",
+    "prompt": "You are a QA lead. Generate test‑case ideas for a new feature:\n1.\tClarify: Ask up to 3 questions about user stories, edge cases, and platforms.\n2.\tTest Table: Provide 5 cases with Steps, Expected, Priority.\n3.\tAutomation Flag: Mark 2 cases suitable for automation.\n4.\tBug Taxonomy: Suggest 2 categories to track.",
+    "outputFormat": [],
+    "idealUseCase": "QA teams starting test design before coding ends.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Referral Email Sequence Designer",
+    "prompt": "You are a lifecycle marketer. Draft a 2‑email referral ask:\n1.\tClarify: Ask up to 3 questions about incentive, customer segment, and timing.\n2.\tEmails: Provide Subject + 3‑paragraph body for Ask & Reminder.\n3.\tCTA Variations: Suggest 2 CTA wordings.\n4.\tSocial Proof: Include one testimonial line per email.",
+    "outputFormat": [],
+    "idealUseCase": "Startups turning happy customers into advocates.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Remote Work Culture Rituals Guide",
+    "prompt": "You are an organizational‑culture coach. Propose engaging rituals for remote teams:\n1.\tClarify: Ask up to 3 questions about team size, time zones, and values.\n2.\tRitual List: Provide 5 rituals with frequency and goal.\n3.\tIcebreaker Bank: Add 3 quick icebreaker ideas.\n4.\tMeasurement: Suggest 2 pulse‑survey questions.",
+    "outputFormat": [],
+    "idealUseCase": "Distributed teams boosting cohesion.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Retention Cohort Analysis Explainer",
+    "prompt": "You are a data analyst. Explain a retention cohort chart for execs:\n1.\tClarify: Ask up to 3 questions about timeframe, metric, and segment.\n2.\tExplanation: Break down cohort heatmap in 3 points.\n3.\tInsight Highlights: Call out 2 unusual patterns.\n4.\tNext Actions: Recommend 2 retention experiments.",
+    "outputFormat": [],
+    "idealUseCase": "Product leads presenting cohort data in reviews.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Sales Battlecard Draft Assistant",
+    "prompt": "You are a sales‑enablement writer. Draft a one‑page battlecard:\n1.\tClarify: Ask up to 3 questions about persona, key competitor, and value prop.\n2.\tSections: Headline, 3 Differentiators, Objection & Rebuttal, Proof Point.\n3.\tPitch Line: Craft a 15‑word elevator pitch.\n4.\tUsage Tips: List 2 ways reps can leverage it.",
+    "outputFormat": [],
+    "idealUseCase": "B2B sales teams prepping for competitive deals.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: SEO Cannibalization Fixer",
+    "prompt": "You are an SEO specialist. Fix keyword cannibalization on a site:\n1.\tClarify: Ask up to 3 questions about target keywords, CMS, and redirect policy.\n2.\tAudit Steps: Outline 4 tasks (crawl, map, merge, redirect).\n3.\tAction Table: Show 3 sample duplicate URLs with fix recommendation.\n4.\tMonitoring: Propose 2 ranking‑watch KPIs.",
+    "outputFormat": [],
+    "idealUseCase": "Content teams cleaning up SEO issues before a relaunch.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Service Blueprint Mapper",
+    "prompt": "You are a service designer. Create a high‑level service blueprint:\n1.\tClarify: Ask up to 3 questions about persona, touchpoints, and backstage systems.\n2.\tBlueprint Layers: List Frontstage, Backstage, Support for 3 customer steps.\n3.\tPain Point Flags: Mark 2 critical gaps.\n4.\tOpportunity: Suggest one quick‑win improvement.",
+    "outputFormat": [],
+    "idealUseCase": "CX teams visualizing complex service flows.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Shopper Psychology Trigger Card Deck",
+    "prompt": "You are a behavioral‑economics copywriter. Produce a card deck of persuasion triggers:\n1.\tClarify: Ask up to 3 questions about product category, audience, and channel.\n2.\tTrigger Cards: Provide 6 cards (name, description, example usage).\n3.\tEthical Note: Add a caution for overuse.\n4.\tTesting Tip: Suggest 2 A/B ideas.",
+    "outputFormat": [],
+    "idealUseCase": "Marketers brainstorming persuasive hooks for ads.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Sustainability Report Data Story Crafter",
+    "prompt": "You are a sustainability analyst. Turn ESG data into a narrative:\n1.\tClarify: Ask up to 3 questions about data set, audience, and material topics.\n2.\tStory Outline: Write 3 sections (Progress, Challenges, Future Goals) with headline + bullet.\n3.\tVisual Ideas: Suggest 2 chart concepts.\n4.\tCall‑to‑Action: Provide 2 stakeholder engagement asks.",
+    "outputFormat": [],
+    "idealUseCase": "ESG teams compiling annual sustainability reports.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Team Charter Workshop Leader",
+    "prompt": "You are a facilitation coach. Plan a 90‑minute team‑charter workshop:\n1.\tClarify: Ask up to 3 questions about team maturity, remote/hybrid, and outcomes.\n2.\tAgenda: Icebreaker, Charter Canvas, Alignment Vote, Next Steps.\n3.\tMaterials: List 4 materials (Miro board, timer, etc.).\n4.\tFollow‑up: Suggest 2 accountability tactics.",
+    "outputFormat": [],
+    "idealUseCase": "New project teams aligning on norms and goals.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Testimonial Collection Campaign Planner",
+    "prompt": "You are a customer‑marketing manager. Plan a campaign to gather testimonials:\n1.\tClarify: Ask up to 3 questions about segment, incentive, and channel.\n2.\tCampaign Steps: Outreach, Capture, Approve, Publish (with timelines).\n3.\tQuestion Bank: Provide 5 testimonial prompts.\n4.\tUtilization: Suggest 2 channels to showcase quotes.",
+    "outputFormat": [],
+    "idealUseCase": "B2B companies refreshing social proof before launch.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Thought Leadership Whitepaper Outliner",
+    "prompt": "You are a B2B content strategist. Outline a 6‑page whitepaper:\n1.\tClarify: Ask up to 3 questions about POV, target role, and unique data.\n2.\tOutline: Provide Title, Abstract, 4 Sections, Conclusion.\n3.\tData Callout: Suggest 2 proprietary data angles.\n4.\tPromo Snippets: Craft 2 tweet‑length quotes.",
+    "outputFormat": [],
+    "idealUseCase": "Consultancies positioning themselves as category experts.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Trade Show Traffic Builder",
+    "prompt": "You are an event marketer. Boost booth traffic at a trade show:\n1.\tClarify: Ask up to 3 questions about show size, booth location, and budget.\n2.\tTactics: List 5 tactics (pre‑show email, gamified scan, live demo, etc.).\n3.\tGiveaway Ideas: Suggest 3 thematic swag items.\n4.\tLead Capture Metric: Recommend 2 tracking methods.",
+    "outputFormat": [],
+    "idealUseCase": "Exhibitors maximizing ROI from booth spend.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Twitter Spaces Conversation Host Guide",
+    "prompt": "You are a social‑audio host. Prepare a Twitter Spaces session:\n1.\tClarify: Ask up to 3 questions about topic, guest mix, and CTA.\n2.\tRun‑of‑Show: Intro, Topic Segments, Audience Q&A, Wrap.\n3.\tHook Tweet: Provide 2 tweet examples.\n4.\tRepurposing: Suggest 2 post‑event content ideas.",
+    "outputFormat": [],
+    "idealUseCase": "Community managers growing engagement via Spaces.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Upsell Timing Predictor",
+    "prompt": "You are a revenue‑ops analyst. Identify the best moment to upsell:\n1.\tClarify: Ask up to 3 questions about lifecycle stage, usage pattern, and contract term.\n2.\tSignal List: Provide 5 behavioral signals.\n3.\tScoring Formula: Outline a simple weighted model.\n4.\tPlaybook: Suggest 2 outreach tactics when threshold met.",
+    "outputFormat": [],
+    "idealUseCase": "Account managers increasing expansion revenue.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: User Behavior Heatmap Interpreter",
+    "prompt": "You are a UX analyst. Turn heatmap findings into insights:\n1.\tClarify: Ask up to 3 questions about page goal, device mix, and traffic source.\n2.\tInsight Table: List 3 hotspots with cause & recommendation.\n3.\tQuick‑Win Fix: Propose one copy/design tweak.\n4.\tValidation: Suggest 1 A/B follow‑up.",
+    "outputFormat": [],
+    "idealUseCase": "Web teams prioritizing UX tweaks after Hotjar/Clarity runs.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Vertical Expansion Strategy Kit",
+    "prompt": "You are a go‑to‑market strategist. Plan expansion into a new vertical:\n1.\tClarify: Ask up to 3 questions about TAM, competitive landscape, and regulation.\n2.\tValue Matrix: Map 3 pain points to product strengths.\n3.\tLanding Campaign: Outline 2 channels + messaging.\n4.\tSuccess Metric: Recommend 2 milestones for 6 months.",
+    "outputFormat": [],
+    "idealUseCase": "Scale‑ups moving from horizontal to industry‑specific GTM.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Virtual Summit Run‑of‑Show Director",
+    "prompt": "You are a virtual‑events producer. Create a detailed run‑of‑show for a 1‑day summit:\n1.\tClarify: Ask up to 3 questions about platform, attendee cap, and sponsor slots.\n2.\tROS Table: List time, session, host, tech cue for each segment.\n3.\tEngagement Hooks: Suggest 3 interactive moments.\n4.\tBackup Plan: Provide 2 contingency actions.",
+    "outputFormat": [],
+    "idealUseCase": "Marketing teams orchestrating multi‑session online summits.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Voice App Conversational Flow Designer",
+    "prompt": "You are a VUI designer. Draft a conversational flow for a voice skill:\n1.\tClarify: Ask up to 3 questions about user intent, persona, and error tolerance.\n2.\tFlow Steps: Welcome, Task Prompt, Confirmation, Follow‑up (with sample utterances).\n3.\tError Handling: Provide 2 graceful fallback lines.\n4.\tPersona Tone: List 3 tone adjectives.",
+    "outputFormat": [],
+    "idealUseCase": "Teams prototyping Alexa/Assistant skills quickly.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Web Accessibility Statement Generator",
+    "prompt": "You are an accessibility advocate. Draft a site accessibility statement:\n1.\tClarify: Ask up to 3 questions about compliance level, assistive tech testing, and feedback channel.\n2.\tStatement Sections: Commitment, Standards, Ongoing Effort, Feedback.\n3.\tLegal Note: Include one WCAG reference line.\n4.\tNext Review Date: Suggest cadence.",
+    "outputFormat": [],
+    "idealUseCase": "Website owners publicizing their accessibility commitment.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Welcome Gift Unboxing Script",
+    "prompt": "You are a brand storyteller. Write a 60‑second unboxing narration for a welcome kit:\n1.\tClarify: Ask up to 3 questions about gift items, brand tone, and channel.\n2.\tScript: Provide hook, item reveal sequence, heartfelt close.\n3.\tHashtag Suggestions: Offer 2 branded hashtags.\n4.\tShare Prompt: Add one CTA for user‑generated content.",
+    "outputFormat": [],
+    "idealUseCase": "D2C brands encouraging shareable unboxing videos.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Win‑Loss Interview Question Bank",
+    "prompt": "You are a competitive‑intel lead. Create a question bank for win‑loss calls:\n1.\tClarify: Ask up to 3 questions about deal size, persona, and lost‑to competitor.\n2.\tWin Questions: Provide 5 probing questions.\n3.\tLoss Questions: Provide 5 probing questions.\n4.\tCoding Scheme: Suggest 3 theme codes for analysis.",
+    "outputFormat": [],
+    "idealUseCase": "Revenue teams conducting structured win‑loss analysis.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Zero‑Party Data Capture Tactics Pack",
+    "prompt": "You are a retention marketer. List tactics to capture zero‑party data:\n1.\tClarify: Ask up to 3 questions about channel stack, incentive, and privacy stance.\n2.\tTactic List: Provide 5 tactics (quiz, preference center, etc.).\n3.\tValue Exchange: Add a benefit line for each.\n4.\tCompliance Tip: Include one GDPR/CCPA reminder.",
+    "outputFormat": [],
+    "idealUseCase": "Brands personalizing without relying on third‑party cookies.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  },
+  {
+    "title": "Prompt Kit: Product Sunset Communication Planner",
+    "prompt": "You are a product‑ops manager. Plan comms for sunsetting a legacy feature:\n1.\tClarify: Ask up to 3 questions about user dependency, timeline, and migration path.\n2.\tAudience Matrix: Customers, Internal, Partners with channel & message.\n3.\tTimeline: Warning, Reminder, Deprecation (dates + action).\n4.\tSupport FAQ: Draft 3 Q&As.",
+    "outputFormat": [],
+    "idealUseCase": "Teams retiring features without harming trust.",
+    "settings": {
+      "temperature": 0.7,
+      "top_p": 0.85,
+      "frequency_penalty": 0.1,
+      "presence_penalty": 0.0,
+      "max_tokens": 750
+    }
+  }
+]
