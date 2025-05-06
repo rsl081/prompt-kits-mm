@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import promptKits from "./data/Prompt_Kits.json";
 import PromptKitCard from "./components/PromptKitCard";
 import "./App.css";
+import NavBar from "./components/NavBar";
 
 export default function App() {
   const [searchTerm, setSearchTerm] = useState("");
